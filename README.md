@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/%EC%A7%80%EC%9A%A9-%EC%8B%AC-17a606223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ff00ff?style=plastic&logo=appveyor&logoColor=00ff00"/></a>
+<a href="https://www.linkedin.com/in/%EC%A7%80%EC%9A%A9-%EC%8B%AC-17a606223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 <!--
 **nikitoe/nikitoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
